@@ -1,5 +1,4 @@
 ---
-version: "3.7"
 services:
   ts-authkey-test:
     image: tailscale/tailscale:latest
